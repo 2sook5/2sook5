@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Issac.
-- 👀 I’m interested in front end development, backend development, playing video games, and anyway to spent time procrastinating. 
-- 🌱 I’m currently learning Java development, Javascript, HTML, CSS, some Python and whatever to make my resume look good. 
-- 💞️ I’m looking to collaborate on projects I deem as interesting.
-- 📫 How to reach me lopezissaca@gmail.com 
+- 👋 Hi, I’m Issac!
+- 👀 I’m interested in a lot of things. Hiking, drawing, coding, sports... The list goes on and on. I consider myself something of a jack-of-all-trades, or at least I   try to be. I find that it's really fun learning new skills and continuing to improve on them. I have a lot of interests, but my goal has remained the same: to         learn and to enjoy learning.
+- 🌱 I'm currently learning Computer Science and Mathematics at Metropolitan State University of Denver. I have experience in Java, Python, and MAL, including           libraries like Processing and p5.js. I also have experience with GIMP, AWS Cloud, and Git. Can't forget HTML, CSS, and JavaScript to learn more about web               development.
+- 💞️ I’m looking to collaborate on projects were help is needed within my set of skills! And beyond of course!
+- 📫 You can reach me at lopezissaca@gmail.com
 
 <!---
 2sook5/2sook5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
