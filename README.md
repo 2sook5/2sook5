@@ -1,12 +1,12 @@
-- 🔭 I’m currently working on [Image Processing and Computer Vision Projects](https://github.com/Issac-Lopez/cs-3150-projects)
+- 🔭 I’m currently working on [Event Reservation Microservice](https://github.com/Issac-Lopez/event-microservice) 🥘😋
 
-- 🌱 I’m currently learning **Spring Boot, Postgres, RESTful APIs, Cryptography, Image Processing, Computer Vision**
+- 🌱 I’m currently learning about **Algorithm and Algorithm Analysis, Network Security, Principles of Programming Languages, and about modern computer operating systems** 💻🤔
 
-- 👨‍💻 All of my projects are available at [https://issac-lopez.github.io/](https://issac-lopez.github.io/)
+- 👨‍💻 All of my projects are available at [https://issac-lopez.github.io/](https://issac-lopez.github.io/) 😎
 
-- 💬 Ask me about **Object-Oriented Programming, Web Development, Design Patterns**
+- 💬 Ask me about **Object-Oriented Programming, Web Development, My cat Charlotte** :octocat:
 
-- 📫 How to reach me **lopezissaca@gmail.com**
+- 📫 How to reach me **lopezissaca@gmail.com** or down below on LinkedIn 🤝
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
