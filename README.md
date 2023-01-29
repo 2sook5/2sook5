@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [Event Reservation Microservice](https://github.com/Issac-Lopez/event-microservice) 🥘😋
+- 🔭 I’m currently working on getting my Bachelors of Science in Computer Science with and the following project [Event Reservation Microservice](https://github.com/Issac-Lopez/event-microservice) 🥘😋
 
 - 🌱 I’m currently learning about **Algorithm and Algorithm Analysis, Network Security, Principles of Programming Languages, and about modern computer operating systems** 💻🤔
 
