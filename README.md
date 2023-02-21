@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on getting my Bachelors of Science in Computer Science with and the following project [Event Reservation Microservice](https://github.com/Issac-Lopez/event-microservice) 🥘😋
+- 🔭 I’m currently working on getting my Bachelors of Science in Computer Science.
 
-- 🌱 I’m currently learning about **Algorithm and Algorithm Analysis, Network Security, Principles of Programming Languages, and about modern computer operating systems** 💻🤔
+- 🌱 I’m currently taking courses related to, **Algorithm and Algorithm Analysis, Cybersecurity, Principles of Programming Languages, and Operating Systems** 💻🤔
 
 - 👨‍💻 All of my projects are available at [https://issac-lopez.github.io/](https://issac-lopez.github.io/) 😎
 
