@@ -2,10 +2,6 @@
 
 - 🌱 I’m currently taking courses related to, **Algorithm and Algorithm Analysis, Cybersecurity, Principles of Programming Languages, and Operating Systems** 💻🤔
 
-- 👨‍💻 All of my projects are available at [https://issac-lopez.github.io/](https://issac-lopez.github.io/) 😎
-
-- 💬 Ask me about **Object-Oriented Programming, Web Development, My cat Charlotte** :octocat:
-
 - 📫 How to reach me **lopezissaca@gmail.com** or down below on LinkedIn 🤝
 
 <h3 align="left">Connect with me:</h3>
