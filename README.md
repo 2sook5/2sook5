@@ -1,6 +1,6 @@
-- Hello, and welcome. 
+Hello, and welcome. 
 
-- How to reach me **lopezissaca@gmail.com** or down below on LinkedIn.
+How to reach me: **lopezissaca@gmail.com** or down below on LinkedIn.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
