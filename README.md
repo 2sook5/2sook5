@@ -1,8 +1,6 @@
-- 🔭 I’m currently working on getting my Bachelors of Science in Computer Science.
+- Hello, and welcome. 
 
-- 🌱 I’m currently taking courses related to, **Algorithm and Algorithm Analysis, Cybersecurity, Principles of Programming Languages, and Operating Systems** 💻🤔
-
-- 📫 How to reach me **lopezissaca@gmail.com** or down below on LinkedIn 🤝
+- How to reach me **lopezissaca@gmail.com** or down below on LinkedIn.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
